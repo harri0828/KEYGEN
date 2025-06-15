@@ -1,26 +1,4 @@
 {
-  "JMD-CFGS-20B6-2643-8045": {
+  "JMD": {
     "hwid": "3614cf57c5f86346b0b5a47cdd8dba2e6f2c3213173a877b1bae86f7fae656a9"
-  },
-  "JMD-CFGS-CE0F-05EF-6BA3": {
-    "hwid": null
-  },
-  "JMD-CFGS-7A3F-1D93-52FF": {
-    "hwid": null
-  },
-  "JMD-CFGS-9ACB-2142-F842": {
-    "hwid": null
-  },
-  "JMD-CFGS-3402-CA62-9FF1": {
-    "hwid": null
-  },
-  "JMD-CFGS-C7A7-BB7E-8B9E": {
-    "hwid": null
-  },
-  "JMD-CFGS-CA75-864E-265D": {
-    "hwid": null
-  },
-  "JMD-CFGS-D4AC-E6E7-C294": {
-    "hwid": null
-  }
 }
